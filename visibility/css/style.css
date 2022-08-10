@@ -1,0 +1,14 @@
+.a{
+    visibility: visible;
+}
+.b{
+    visibility: hidden;
+}
+
+table, td {
+    border: 1px solid black;
+  }
+  
+  tr.collapse {
+    visibility: collapse;
+  }
